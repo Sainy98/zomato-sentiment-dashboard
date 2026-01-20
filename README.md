@@ -76,10 +76,10 @@ This dashboard converts reviews into:
 
 ## 🧠 What This Project Shows
 
-✔ Real-world data handling
-✔ Business thinking, not just charts
-✔ Strong Power BI skills
-✔ Clear storytelling with data
+* ✔ Real-world data handling
+* ✔ Business thinking, not just charts
+* ✔ Strong Power BI skills
+* ✔ Clear storytelling with data
 
 This is not just a dashboard — it is a **decision-making tool**.
 
@@ -114,12 +114,12 @@ This is not just a dashboard — it is a **decision-making tool**.
 
 ## 👨‍💻 About Me
 
-**Harsh**
+**Harsh Pratap Singh**
 BCA Student | Data + Web Projects
 
-📧 Email: [sainythakur@gmail.com](mailto:sainythakur@gmail.com)
-🌐 Portfolio: [https://sainy98.github.io/portfolio](https://sainy98.github.io/portfolio)
-💼 Freelance: Web Dev • Power BI • Data Dashboards
+* 📧 Email: [sainythakur@gmail.com](mailto:sainythakur@gmail.com)
+* 🌐 Portfolio: [https://sainy98.github.io/portfolio](https://sainy98.github.io/portfolio)
+* 💼 Freelance: Web Dev • Power BI • Data Dashboards
 
 ---
 
