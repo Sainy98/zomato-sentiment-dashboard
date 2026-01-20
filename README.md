@@ -15,7 +15,7 @@ Zomato receives lakhs of reviews every month. Reading them one by one is not pos
 
 * What customers like
 * What makes them angry
-* Which problem hurts business the most
+* Which problem hurts the business the most
 
 The dashboard helps **product, delivery, and support teams** take quick action.
 
@@ -26,7 +26,7 @@ The dashboard helps **product, delivery, and support teams** take quick action.
 Customer feedback is unstructured (text reviews). Without analysis:
 
 * Issues remain hidden
-* Teams work on wrong priorities
+* Teams work on the wrong priorities
 * Customer experience suffers
 
 This dashboard converts reviews into:
@@ -117,8 +117,8 @@ This is not just a dashboard — it is a **decision-making tool**.
 **Harsh**
 BCA Student | Data + Web Projects
 
-📧 Email: [pratap@pratapsolution.com](mailto:pratap@pratapsolution.com)
-🌐 Portfolio: [https://pratapsolution.com](https://pratapsolution.com)
+📧 Email: [sainythakur@gmail.com](mailto:sainythakur@gmail.com)
+🌐 Portfolio: [https://sainy98.github.io/portfolio](https://sainy98.github.io/portfolio)
 💼 Freelance: Web Dev • Power BI • Data Dashboards
 
 ---
