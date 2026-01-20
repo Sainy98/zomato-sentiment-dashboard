@@ -95,7 +95,7 @@ This is not just a dashboard — it is a **decision-making tool**.
 ---
 
 ## 🔗 Project Links
-* 📄 **PDF Export:** *Add PDF link here*
+* 📄 **PDF Export:** [Click Here](https://github.com/Sainy98/zomato-sentiment-dashboard/blob/main/Zomato%20Customer%20Experience%20%26%20Sentiment%20Dashboard.pdf)
 
 ---
 
